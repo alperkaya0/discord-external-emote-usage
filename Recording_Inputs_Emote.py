@@ -63,18 +63,10 @@ def replacement():
         #traceback.print_exc() # don't care about index out of range expection because it's only because of last line, remember that it is empty
     
     link_examples = [
-    "https://media.discordapp.net/attachments/818214043743158302/830226182280577065/vurmaab.png",
     "https://cdn.discordapp.com/attachments/796554830936145932/830203065255854121/pepog.png",
     "https://cdn.discordapp.com/attachments/796554830936145932/830203066962673664/poggies.png",
     "https://cdn.discordapp.com/attachments/796554830936145932/830203068024094740/wesmart.png",
-    "https://cdn.discordapp.com/attachments/796554830936145932/830203207841218560/gablick.gif",
-    "https://media.discordapp.net/attachments/818214043743158302/830222286798848070/love.png",
-    "https://cdn.discordapp.com/attachments/818214043743158302/830224397935706152/sipFelix.png",
-    "https://cdn.discordapp.com/attachments/818214043743158302/830223774715609118/crying.png",
-    "https://media.discordapp.net/attachments/829155749040750596/830236204280184872/hiSlpy.png",
-    "https://media.discordapp.net/attachments/818214043743158302/830236648570224650/o7Slpy.png",
-    "https://cdn.discordapp.com/attachments/823215544916246559/830306292828602398/kekw.png",
-    "https://cdn.discordapp.com/attachments/125619281638457345/830727874633269268/pepothink.png"]
+    "https://cdn.discordapp.com/attachments/823215544916246559/830306292828602398/kekw.png"]
 
     def find_emote_equality(finding,data):
         count = 0
